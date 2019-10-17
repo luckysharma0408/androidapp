@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011721155435",
+    "firebase_url": "https://stufac-ab957.firebaseio.com",
+    "project_id": "stufac-ab957",
+    "storage_bucket": "stufac-ab957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011721155435:android:6e774e91763473ecb2122e",
+        "android_client_info": {
+          "package_name": "com.example.stufac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011721155435-22t44i3h9cokem9nq0tk7of37la7mvuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQXtzcmvh5KeRthWcRv0Xjff409uE9r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011721155435-22t44i3h9cokem9nq0tk7of37la7mvuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
